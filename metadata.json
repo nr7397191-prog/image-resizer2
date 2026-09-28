@@ -1,0 +1,6 @@
+{
+  "name": "Image Compressor & Converter - Android Project",
+  "description": "Production-ready Native Android project (Jetpack Compose, MVVM, Room, AdMob, Binary Search Compression) with live simulator, code viewer, and 1-click ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

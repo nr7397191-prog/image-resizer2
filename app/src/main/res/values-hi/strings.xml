@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">इमेज कंप्रेसर</string>
+    <string name="app_tagline">स्मार्ट साइज़ और फॉर्मेट कन्वर्टर</string>
+    <string name="home_title">कंप्रेसर</string>
+    <string name="history_title">इतिहास</string>
+    <string name="settings_title">सेटिंग्स</string>
+
+    <!-- Picker & Selection -->
+    <string name="select_images">फोटो चुनें</string>
+    <string name="select_single_or_multi">एक या अधिक फोटो चुनें (JPG, PNG, WEBP, HEIC)</string>
+    <string name="images_selected_count">%1$d फोटो चुनी गईं</string>
+    <string name="pick_another">दूसरी फोटो चुनें</string>
+
+    <!-- Modes -->
+    <string name="mode_target_size">लक्षित साइज़ (KB)</string>
+    <string name="mode_quality">क्वालिटी %</string>
+    <string name="target_size_label">मनचाहा फ़ाइल साइज़ (KB)</string>
+    <string name="target_size_hint">जैसे: 50, 100, 250, 500</string>
+    <string name="preset_50kb">50 KB</string>
+    <string name="preset_100kb">100 KB</string>
+    <string name="preset_200kb">200 KB</string>
+    <string name="preset_500kb">500 KB</string>
+    <string name="preset_1mb">1 MB</string>
+    <string name="quality_slider_label">कंप्रेशन क्वालिटी: %1$d%%</string>
+
+    <!-- Format -->
+    <string name="output_format">आउटपुट फॉर्मेट</string>
+    <string name="format_jpg">JPEG</string>
+    <string name="format_png">PNG</string>
+    <string name="format_webp">WEBP</string>
+
+    <!-- Actions -->
+    <string name="compress_now">कंप्रेस करें</string>
+    <string name="compressing">कंप्रेस हो रहा है…</string>
+    <string name="compressing_progress">क्वालिटी और डायमेंशन ऑप्टिमाइज़ हो रहे हैं (%1$d%%)…</string>
+    <string name="save_gallery">गैलरी में सहेजें</string>
+    <string name="save_downloads">डाउनलोड्स में सहेजें</string>
+    <string name="share">शेयर करें</string>
+    <string name="save_all">सभी सहेजें</string>
+    <string name="delete">हटाएं</string>
+    <string name="clear_history">इतिहास साफ़ करें</string>
+
+    <!-- Comparison & Preview -->
+    <string name="original_label">मूल (Original)</string>
+    <string name="compressed_label">कंप्रेस किया हुआ</string>
+    <string name="size_reduction">%1$s बचाया (%2$.1f%% छोटा)</string>
+    <string name="dimensions_format">%1$d × %2$d px</string>
+    <string name="zoom_hint">ज़ूम करने के लिए पिंच करें, खिसकाने के लिए ड्रैग करें</string>
+
+    <!-- States & Notifications -->
+    <string name="saved_successfully">फोटो %1$s में सफलतापूर्वक सहेजी गई!</string>
+    <string name="save_failed">सहेजने में विफल: %1$s</string>
+    <string name="empty_history_title">अभी तक कोई फोटो कंप्रेस नहीं हुई</string>
+    <string name="empty_history_desc">अपनी पहली फोटो कंप्रेस करें, वह यहाँ दिखेगी।</string>
+    <string name="no_image_selected">कोई फोटो नहीं चुनी गई</string>
+    <string name="please_select_image">कृपया कंप्रेस करने के लिए फोटो चुनें</string>
+    <string name="invalid_target_size">कृपया वैध साइज़ दर्ज करें (कम से कम 10 KB)</string>
+    <string name="compression_success">कंप्रेशन पूरा हुआ!</string>
+
+    <!-- Settings -->
+    <string name="ad_consent">विज्ञापन सहमति (Ad Consent)</string>
+    <string name="ad_consent_desc">अपनी विज्ञापन प्राथमिकताएं बदलें</string>
+    <string name="about_version">संस्करण 1.0.0</string>
+    <string name="about_dev">Jetpack Compose और Material 3 द्वारा निर्मित</string>
+</resources>

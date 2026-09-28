@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32h44v44H32z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M36,36h36v36H36z" />
+    <!-- Image Mountain & Sun symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,62l7,-10 6,8 5,-6 8,11H40z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,45a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <!-- Compression arrows pointing inward -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,26L54,34M50,30L54,34L58,30" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,82L54,74M50,78L54,74L58,78" />
+</vector>
